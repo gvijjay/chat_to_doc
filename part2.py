@@ -700,7 +700,7 @@ class HanaBOT:
 
 # Streamlit App with RAG
 def main():
-    st.title("HANA_BOT with Image Support") 
+    st.title("Chat_to_Doc") 
 
     # Initialize HanaBOT
     bot = HanaBOT(index_path="faiss_index")
