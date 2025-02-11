@@ -1,0 +1,16 @@
+langchain
+langchain-community
+openai
+faiss-cpu
+PyPDF2
+pypdf
+pdfplumber
+pandas
+numpy
+python-dotenv
+faiss-cpu
+langchain_openai
+streamlit
+pytesseract
+opencv-python-headless
+python-docx
